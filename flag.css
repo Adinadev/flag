@@ -1,0 +1,24 @@
+#flag {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2pc;
+  flex-wrap: wrap;
+}
+
+body {
+  background: #37d7ec;
+}
+
+#btn {
+  border: none;
+  outline: none;
+  background: #00ff15;
+  color: rgb(0, 0, 0);
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+img{
+  width: 300px;
+  height: 200px;
+}
